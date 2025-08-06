@@ -1,5 +1,18 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(154, 255, 150);
+
+}
+
+p {
+    color: hotpink
+}
+
+h1 {
+    color:aqua
+}
+
+h2 {
+    color:aquamarine
 }
 
 .image{
