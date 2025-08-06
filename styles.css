@@ -1,5 +1,19 @@
 body {
-  background-color: rgb(255, 255, 165);
+    background-color: rgb(154, 255, 150);
+}
+
+p {
+    color: hotpink;
+    padding: 1rem 0;
+}
+
+h1 {
+    color:aqua
+}
+
+h2 {
+    color: aquamarine
+    background-color: rgb(255, 255, 165);
 }
 
 .image {
@@ -13,9 +27,6 @@ body {
     background-size: 90%;
 }
 
-p {
-    padding: 1rem 0;
-}
 
 .container {
   width: 70%;
